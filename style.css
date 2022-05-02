@@ -4,3 +4,12 @@ h1{
     overflow: hidden;
     text-align: center;
 }
+body {
+
+}
+
+#card{
+    margin-left: 5;
+    margin-top: 5;
+    margin-right: 5;
+}
