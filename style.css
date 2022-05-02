@@ -7,12 +7,16 @@ h1{
 body {
 
 }
-
+#contenido{
+    margin-top: 5;
+    padding-top:4;
+}
 #card{
     margin-left: 5;
     margin-top: 5;
     margin-right: 5;
 }
+
 footer {
     background-color: black;
     position: absolute;
