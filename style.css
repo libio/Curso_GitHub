@@ -13,3 +13,16 @@ body {
     margin-top: 5;
     margin-right: 5;
 }
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+    text-align: center;
+  }
+  #footer{
+      align-content: center;
+      align-items: center;
+  }
